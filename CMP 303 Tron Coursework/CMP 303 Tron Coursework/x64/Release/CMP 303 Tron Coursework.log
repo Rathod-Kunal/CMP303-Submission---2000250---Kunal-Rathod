@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\kunal\OneDrive\Documents\CMP303-Submission---2000250---Kunal-Rathod\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303-Submission---2000250---Kunal-Rathod\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(243,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303-Submission---2000250---Kunal-Rathod\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(243,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303-Submission---2000250---Kunal-Rathod\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(246,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303-Submission---2000250---Kunal-Rathod\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(246,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  103 of 107 functions (96.3%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CMP 303 Tron Coursework.vcxproj -> C:\Users\kunal\OneDrive\Documents\CMP303-Submission---2000250---Kunal-Rathod\CMP 303 Tron Coursework\x64\Release\CMP 303 Tron Coursework.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\kunal\OneDrive\Documents\CMP303 Tron Coursework\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303 Tron Coursework\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(243,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303 Tron Coursework\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(243,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303 Tron Coursework\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(246,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\OneDrive\Documents\CMP303 Tron Coursework\CMP 303 Tron Coursework\CMP 303 Tron Coursework\main.cpp(246,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CMP 303 Tron Coursework.vcxproj -> C:\Users\kunal\OneDrive\Documents\CMP303 Tron Coursework\CMP 303 Tron Coursework\x64\Debug\CMP 303 Tron Coursework.exe
