@@ -9,3 +9,6 @@ How to use the program:
 3. use WASD to move the server player and arrow keys to move the client player
 4. to exit the program, close the game window, and the other window should close automatically after 5 seconds
 
+Github Repository link: https://github.com/Rathod-Kunal/CMP303-Submission---2000250---Kunal-Rathod
+
+Demonstration video link: https://web.microsoftstream.com/video/03d1e848-827d-44ef-a7e6-3e0f75bf4c49
